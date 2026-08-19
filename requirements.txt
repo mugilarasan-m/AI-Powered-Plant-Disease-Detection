@@ -1,0 +1,9 @@
+streamlit==1.32.0
+tensorflow==2.15.0
+numpy==1.26.4
+pandas==2.2.1
+pillow==10.2.0
+matplotlib==3.8.3
+tensorflow-macos==2.15.0
+tensorflow-metal==1.1.0
+protobuf==4.25.3

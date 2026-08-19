@@ -1,0 +1,10 @@
+appdd-venv/
+venv/
+.venv/
+
+__pycache__/
+*.py[cod]
+
+.DS_Store
+
+*.weights.h5
