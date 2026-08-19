@@ -103,3 +103,6 @@ This will automatically open up the web app in your default browser at `http://l
 ```
 
 ```
+
+![AI Plant Disease Detection](s01.png)
+![AI Plant Disease Detection](s02.png)
