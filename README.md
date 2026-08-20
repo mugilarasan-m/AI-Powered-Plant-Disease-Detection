@@ -12,10 +12,6 @@ The application uses a deep learning model built with **TensorFlow/Keras** and p
 
 ![Application Interface](so1.png)
 
-### Prediction and Recommendation Results
-
-![Application Results](so2.png)
-
 ---
 
 ## Features
