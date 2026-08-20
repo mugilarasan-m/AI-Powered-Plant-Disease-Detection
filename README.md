@@ -1,6 +1,3 @@
-Here is the complete `README.md` with your GitHub username and repository URL included:
-
-````markdown
 # AI-Powered Plant Disease Detection
 
 An AI-powered web application that detects plant diseases from leaf images and provides useful information about symptoms, prevention, and possible treatment options.
@@ -60,7 +57,7 @@ AI-Powered-Plant-Disease-Detection/
 ├── so1.png
 ├── so2.png
 └── README.md
-````
+```
 
 ---
 
@@ -94,10 +91,10 @@ The uploaded plant image is processed using `src/preprocess.py`.
 
 The image is:
 
-* Resized to `224 × 224` pixels
-* Converted into the required format
-* Normalized for the deep learning model
-* Prepared as an array for prediction
+- Resized to `224 × 224` pixels
+- Converted into the required format
+- Normalized for the deep learning model
+- Prepared as an array for prediction
 
 ### 2. Disease Prediction
 
@@ -117,11 +114,11 @@ After prediction, the application uses `src/disease_info.py` to retrieve additio
 
 The application displays:
 
-* Disease name
-* Prediction confidence
-* Symptoms
-* Prevention methods
-* Treatment recommendations
+- Disease name
+- Prediction confidence
+- Symptoms
+- Prevention methods
+- Treatment recommendations
 
 ---
 
@@ -187,16 +184,16 @@ http://localhost:8501
 
 ## Tech Stack
 
-| Technology   | Purpose                                 |
-| ------------ | --------------------------------------- |
-| Python       | Core programming language               |
-| TensorFlow   | Deep learning framework                 |
-| Keras        | Neural network development              |
-| MobileNetV2  | Image classification model architecture |
-| Streamlit    | Web application interface               |
-| Pillow       | Image processing                        |
-| NumPy        | Numerical operations                    |
-| Google Colab | Model training and experimentation      |
+| Technology | Purpose |
+|---|---|
+| Python | Core programming language |
+| TensorFlow | Deep learning framework |
+| Keras | Neural network development |
+| MobileNetV2 | Image classification model architecture |
+| Streamlit | Web application interface |
+| Pillow | Image processing |
+| NumPy | Numerical operations |
+| Google Colab | Model training and experimentation |
 
 ---
 
@@ -228,11 +225,11 @@ The project requires Python and the dependencies listed in `requirements.txt`.
 
 Main technologies include:
 
-* Python 3.10 or 3.11
-* TensorFlow
-* Streamlit
-* Pillow
-* NumPy
+- Python 3.10 or 3.11
+- TensorFlow
+- Streamlit
+- Pillow
+- NumPy
 
 Install all dependencies using:
 
@@ -246,12 +243,12 @@ pip install -r requirements.txt
 
 This project can be useful for:
 
-* Students learning Machine Learning and Deep Learning
-* AI and Computer Vision projects
-* Plant disease detection demonstrations
-* Agricultural technology applications
-* Educational purposes
-* Preliminary plant disease identification for gardeners and farmers
+- Students learning Machine Learning and Deep Learning
+- AI and Computer Vision projects
+- Plant disease detection demonstrations
+- Agricultural technology applications
+- Educational purposes
+- Preliminary plant disease identification for gardeners and farmers
 
 ---
 
@@ -272,8 +269,3 @@ GitHub: [@mugilarasan-m](https://github.com/mugilarasan-m)
 ---
 
 If you found this project useful, consider giving the repository a **star**.
-
-```
-
-Make sure `so1.png` and `so2.png` are uploaded to the **root folder of your GitHub repository**, alongside `README.md`, so the screenshots display correctly. 
-```
